@@ -1,0 +1,4 @@
+foram utilizados os comandos para modificar o usuario global:
+git config --global user.name "Everaldina G. Barbosa"
+git config --global user.username "everaldina"
+git config --global user.email "everaldinag@gmail.com"

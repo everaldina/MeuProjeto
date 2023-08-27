@@ -6,6 +6,3 @@ controle de versão.
 
 Novo Feature: Criando um novo feature de nav-bar
 Contribuição Bia
-
-Novo Feature: Adicionando novas informações
-Contribuição: Cauã

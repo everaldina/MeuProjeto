@@ -9,3 +9,5 @@ Contribuição Bia
 
 Novo Feature: Adicionando novas informações
 Contribuição: Cauã
+
+VERSAO 2.0
